@@ -1,5 +1,4 @@
 /*
-Jason Chan
 github.com/mrchowmein
 */
 
