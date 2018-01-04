@@ -1,7 +1,6 @@
 /*
 Jason Chan
-Pac 1
-Lab: Game of Life
+github.com/mrchowmein
 */
 
 import java.util.*;
