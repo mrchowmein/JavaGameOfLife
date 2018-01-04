@@ -1,3 +1,7 @@
+/*
+Copyright 2017
+github.com/mrchowmein
+*/
 
 import java.util.Scanner;
 
