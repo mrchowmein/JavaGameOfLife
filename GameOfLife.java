@@ -1,4 +1,5 @@
 /*
+Copyright 2017
 github.com/mrchowmein
 */
 
